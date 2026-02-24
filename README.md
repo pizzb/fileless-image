@@ -1,5 +1,5 @@
 # fileless-image
-Inspired by the Canvas of Babel, this website contains very possible image that can be searched if you have the index.
+Inspired by the Canvas of Babel, this website contains all images. As long as you have the URL.
 Everything is handled through the URL.
 
 Website: https://pizzb.github.io/fileless-image/
